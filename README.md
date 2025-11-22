@@ -74,6 +74,7 @@ C:\> ipconfig /all
 ## OUTPUT
 ---
 <img width="1088" height="796" alt="image" src="https://github.com/user-attachments/assets/39cc071d-feae-4f5e-b8a6-f2b7a155daf0" />
+<img width="1920" height="1021" alt="517514235-56ea6f8c-4a88-47e4-834c-08cc832db49a" src="https://github.com/user-attachments/assets/0f19c437-92a8-4c48-9973-f3dd253da9fc" />
 
 ## RESULT
 Thus the computers in same network are able to communicate with each other and the communication between them were verified
